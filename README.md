@@ -28,8 +28,7 @@ This project was created to:
 - HTML5 for structure  
 - CSS3 for layout & design (custom stylesheets)
 - JavaScript
-
-- 
+  
 ## 💼 About Me
 
 I’m a passionate web development student looking for **internship opportunities** to grow my real-world skills and contribute to a professional development team.

@@ -37,7 +37,7 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 
 ## 📄 Resume
 
-[View Resume](cv/Muhammad-usman.pdf)
+[View Resume](./cv/Muhammad-usman.pdf)
 
 ## 🔗 Connect with Me
 

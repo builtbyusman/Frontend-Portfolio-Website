@@ -1,42 +1,50 @@
-# Frontend-Portfolio-Website
+# 🌟 Frontend Portfolio Website
 
-This is a personal portfolio website created as part of my learning journey toward becoming a **Frontend Developer**. Built using **HTML**, **CSS**, and **JavaScript**, it demonstrates my foundational skills in web development.
+Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se banaya hai. Is project se maine apni frontend development skills ko improve kiya hai.
 
-This project was created to:
+## 🚀 Live Demo
 
-- Showcase my ability to structure responsive webpages
-- Apply CSS layouts (Flexbox & Grid)
-- Practice basic DOM interactions using JavaScript
-- Demonstrate readiness for an internship opportunity
+[View Live Site](https://builtbyusman.github.io/Frontend-Portfolio-Website/)
 
-- ## 🔗 Live Preview
+## 📁 Project Structure
 
-📁 🔗 [Live Demo](https://builtbyusman.github.io/Frontend-Portfolio-Website/)  
-📄 [View Resume](./cv/Muhammad-usman.pdf)
+├── index.html
+├── style.css
+├── secstyle.css
+├── RESPONES.css
+├── mind.js
+├── cv/
+│ └── Muhammad-usman.pdf
+├── imgs/
+│ └── (images used in site)
+├── videos/
+└── (videos used in site)
 
 
-## 🧠 What I Learned
+## ✨ Features
 
-- How to build responsive layouts
-- Organize and structure a real project
-- Use semantic HTML for accessibility
-- Apply transitions and effects with CSS
-- Basic DOM manipulation with JS
+- Responsive design
+- Clean UI with CSS styling
+- JavaScript animations and interactivity
+- Embedded videos and images
+- Downloadable resume
 
 ## 🛠️ Technologies Used
 
-- HTML5 for structure  
-- CSS3 for layout & design (custom stylesheets)
-- JavaScript
-  
-## 💼 About Me
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript (Vanilla JS)
 
-I’m a passionate web development student looking for **internship opportunities** to grow my real-world skills and contribute to a professional development team.
+## 📄 Resume
 
-- 🔗 [LinkedIn Profile](https://linkedin.com/in/yourname)
-- ✉️ [Email Me](mailto:youremail@example.com)
-- 🐱 [GitHub Profile](https://github.com/yourusername)
+[View Resume](./cv/Muhammad-usman.pdf)
 
-- ## 🙏 Thank You
+## 🔗 Connect with Me
 
-- Thanks for visiting my project! I’m open to feedback, collaboration, or internship opportunities.
+- [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
+- [GitHub](https://github.com/builtbyusman)
+- [Email](mailto:youremail@example.com)
+
+---
+
+Thank you for visiting my portfolio! Feedback and internship opportunities are welcome.

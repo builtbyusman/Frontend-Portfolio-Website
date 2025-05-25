@@ -19,7 +19,13 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 │ └── (images used in site)
 ├── videos/
 └── (videos used in site)
+## 📸 Project Screenshots
 
+### 🏠 Home Page
+![Home Page](screenshots/Screenshot-2025-05-25-104921.png)
+
+### 📄 About Page
+![About Page](screenshots/about.png)
 
 ## ✨ Features
 

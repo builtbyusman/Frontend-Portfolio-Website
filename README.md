@@ -4,7 +4,7 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 
 ## 🚀 Live Demo
 
-[View Live Site](https://builtbyusman.github.io/Frontend-Portfolio-Website/)
+[View Live Site](https://builtbyusman.github.io/Frontend-Portfolio-Website)
 
 ## 📁 Project Structure
 

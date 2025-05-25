@@ -12,7 +12,7 @@ This project was created to:
 - ## 🔗 Live Preview
 
 📁 [View Repository](https://github.com/builtbuusman/Frontend-portfolio-Website)  
-📄 [View Resume](cv/Muhammas)
+📄 [View Resume](cv/Muhammad-usman.pdf)
 
 
 ## 🧠 What I Learned

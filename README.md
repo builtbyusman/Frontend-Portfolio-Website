@@ -11,7 +11,7 @@ This project was created to:
 
 - ## 🔗 Live Preview
 
-📁 [View Repository](https://github.com/builtbuusman/Frontend-portfolio-Website)  
+📁 🔗 [Live Demo](https://builtbyusman.github.io/Frontend-Portfolio-Website/)  
 📄 [View Resume](./cv/Muhammad-usman.pdf)
 
 

@@ -14,7 +14,7 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 ├── RESPONES.css
 ├── mind.js
 ├── cv/
-│ └── Muhammad-usman.pdf
+│ └── muhammadusman.pdf
 ├── imgs/
 │ └── (images used in site)
 ├── videos/
@@ -37,7 +37,7 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 
 ## 📄 Resume
 
-[View Resume](./cv/Muhammad-usman.pdf)
+[View Resume](./cv/muhammadusman.pdf)
 
 ## 🔗 Connect with Me
 

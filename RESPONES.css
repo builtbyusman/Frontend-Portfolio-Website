@@ -1,0 +1,102 @@
+@media (max-width: 480px) {
+    .hi {
+        height: 60%;
+        width: 70%;
+    }
+
+    .about {
+        flex-direction: column;
+        height: 90vh;
+    }
+
+    .ab-pic {
+        height: 40%;
+        width: 100%;
+    }
+
+    .ab-me {
+        height: 60%;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .ab-me .me {
+        height: 90vh;
+        padding: 5%;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: center;
+        gap: 2%;
+    }
+
+    .sk-thr {
+        flex-direction: column;
+    }
+
+    .pr-1 {
+        flex-direction: column;
+    }
+
+    #projects {
+        height: 200vh;
+    }
+
+    .pr-0 {
+        height: 10%;
+    }
+
+    .w-1 {
+        width: 60%;
+        padding-left: 4%;
+    }
+
+    .w-2 {
+        width: 40%;
+    }
+
+    .g-2 {
+        flex-direction: column;
+        padding-left: 2%;
+    }
+
+    .g-2 div {
+        width: 45%;
+        height: 22%;
+    }
+
+    .video {
+        height: 90vh;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .video div {
+        width: 48%;
+        height: 48%;
+    }
+
+    .cn-21 {
+        width: 90%;
+    }
+
+    #overlay {
+        font-size: 1.5rem;
+    }
+
+    header {
+        height: 50px;
+    }
+
+    .sec-fr ul {
+        flex-wrap: wrap;
+        gap: 5%;
+    }
+
+    .fir {
+        width: 20%;
+    }
+
+    .sec {
+        width: 80%;
+    }
+}

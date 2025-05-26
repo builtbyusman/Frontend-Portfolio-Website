@@ -36,7 +36,7 @@ window.addEventListener('scroll', () => {
 const cv = document.querySelector("#cv");
 cv.addEventListener("click", () => {
   const link = document.createElement("a");
-  link.href = "cv/muhammadusman.pdf";
+  link.href = "CV/muhammadusman.pdf";
   link.download = "cv-Muhammad usman";
   document.body.appendChild(link);
   link.click();
@@ -45,7 +45,7 @@ cv.addEventListener("click", () => {
 
 
 document.getElementById('view').addEventListener('click', function () {
-  window.open('cv/muhammadusman.pdf', '_blank');
+  window.open('CV/muhammadusman.pdf', '_blank');
 });
 
 const spotify = document.querySelector("#spotify");

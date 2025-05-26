@@ -22,7 +22,7 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Screenshot-2025-05-25-104921.png)
+![Home Page](screenshots/home.png)
 
 ### 📄 About Page
 ![About Page](screenshots/about.png)

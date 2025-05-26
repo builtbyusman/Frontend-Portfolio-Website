@@ -180,7 +180,7 @@ main {
     width: 90%;
     border-bottom-left-radius: 40%;
     border-top-right-radius: 40%;
-    background-image: url(imgs/ab.jpg);
+    background-image: url(/imgs/ab.jpg);
     background-size: cover;
 }
 

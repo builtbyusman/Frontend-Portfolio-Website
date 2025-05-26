@@ -309,7 +309,7 @@ html {
 }
 
 .sk-thr-f {
-    background-image: url(img/pexels-pixabay-270404.jpg);
+    background-image: url(imgs/pexels-pixabay-270404.jpg);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -321,7 +321,7 @@ html {
 }
 
 .sk-thr-s {
-    background-image: url(img/html-e-css-1.jpg);
+    background-image: url(imgs/html-e-css-1.jpg);
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -333,7 +333,7 @@ html {
 }
 
 .sk-thr-t {
-    background-image: url(img/istockphoto-1047259374-612x612.jpg);
+    background-image: url(imgs/istockphoto-1047259374-612x612.jpg);
     background-size: cover;
     background-position: center;
     position: absolute;

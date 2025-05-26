@@ -53,7 +53,7 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https:www.linkedin.com/in/muhammad-usman-862693367)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-usman-862693367)
 - [GitHub](https://github.com/builtbyusman)
 - [Email](mailto:developerusman23@gmail.com)
 

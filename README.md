@@ -27,6 +27,12 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 ### 📄 About Page
 ![About Page](screenshots/about.png)
 
+### 📄 Projects Page
+![Projects Page](screenshots/projects.png)
+
+### 📄 Contact Page
+![Contact Page](screenshots/contact.png)
+
 ## ✨ Features
 
 - Responsive design

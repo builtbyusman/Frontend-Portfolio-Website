@@ -45,11 +45,11 @@ Ye mera personal portfolio website hai jo maine HTML, CSS, aur JavaScript se ban
 
 - HTML5
 - CSS3 (Flexbox, Grid)
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## 📄 Resume
 
-[View Resume](./cv/muhammadusman.pdf)
+[View Resume](./CV/muhammadusman.pdf)
 
 ## 🔗 Connect with Me
 
